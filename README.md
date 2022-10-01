@@ -4,7 +4,7 @@
 
 > Trainning from Youtube
 
-Criei essa tela de login com o auxílio de um tutorial no Youtube para praticar meus conhecimentos em HTML e CSS. Gostei muito do resultado, ficou incrível!
+Construí essa tela de login com o auxílio de um tutorial no Youtube para praticar meus conhecimentos em HTML e CSS. Gostei muito do resultado, ficou incrível!
 
 [🔗 Clique aqui para acessar](https://filipesantos07.github.io/tela-de-login--com-tema-dark/)
 
